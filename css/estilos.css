@@ -32,6 +32,10 @@ body{
   
 }
 
+.accordion{
+  text-transform: uppercase;
+}
+
 @media (max-width: 767.98px) {
   #BtnRegistro {
     margin-top: 2rem;
